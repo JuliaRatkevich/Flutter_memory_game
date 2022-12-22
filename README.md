@@ -1,6 +1,10 @@
-# appp
+# Flutter memory game
 
-A new Flutter project.
+Memory game implemented in Flutter
+
+|<img width="456" alt="Screenshot 2022-12-22 at 13 00 27" src="https://user-images.githubusercontent.com/57234824/209130080-e6e27cec-03cd-4966-bca6-77f38361fb3e.png">|
+<img width="456" alt="Screenshot 2022-12-22 at 13 00 24" src="https://user-images.githubusercontent.com/57234824/209130104-f074de52-4e1d-4269-82a7-bb18feb709b4.png">|
+
 
 ## Getting Started
 
